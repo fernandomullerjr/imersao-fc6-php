@@ -1,18 +1,18 @@
 {
-    "name": "hyperf/hyperf-skeleton",
+    "name": "leocavalcante/imersao-fc6-php",
     "type": "project",
     "keywords": [
+        "imersao",
+        "fullstack",
+        "fullcycle",
         "php",
         "swoole",
-        "framework",
-        "hyperf",
-        "microservice",
-        "middleware"
+        "hyperf"
     ],
-    "description": "A coroutine framework that focuses on hyperspeed and flexible, specifically use for build microservices and middlewares.",
+    "description": "Esse repositório contém todo código utilizado durante as aulas para referência em PHP & Swoole.",
     "license": "Apache-2.0",
     "require": {
-        "php": ">=7.3",
+        "php": ">=8.0",
         "hyperf/cache": "~2.2.0",
         "hyperf/command": "~2.2.0",
         "hyperf/config": "~2.2.0",
@@ -26,6 +26,7 @@
         "hyperf/database": "~2.2.0"
     },
     "require-dev": {
+        "roave/security-advisories": "dev-latest",
         "friendsofphp/php-cs-fixer": "^3.0",
         "hyperf/devtool": "~2.2.0",
         "hyperf/ide-helper": "~2.2.0",
