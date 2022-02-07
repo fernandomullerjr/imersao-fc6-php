@@ -1,4 +1,4 @@
-# Imersão FullCycle 6 - Monitoramento de tweets
+# Imersão FullCycle 6 em PHP - Monitoramento de tweets
 ![Imersão Full Stack && Full Cycle](https://events-fullcycle.s3.amazonaws.com/events-fullcycle/static/site/img/grupo_4417.png)
 
 Participe gratuitamente: https://imersao.fullcycle.com.br/
