@@ -4,7 +4,12 @@
 Participe gratuitamente: https://imersao.fullcycle.com.br/
 
 ## Sobre o repositório
-Esse repositório contém todo código utilizado durante as aulas para referência **em PHP**.
+Esse repositório contém todo código utilizado durante as aulas para referência **em PHP & [Swoole](https://github.com/swoole/swoole-src)**.
+
+| Back end       | Front end      |
+|----------------|----------------|
+| <s>NestJS</s>  | <s>Next.js</s> |
+| [**Hyperf**](https://hyperf.io/https://hyperf.io/) | [**Viewi**](https://viewi.net/)  |
 
 Faça seu fork e também nos dê uma estrelinha para nos ajudar a divulgar o projeto.
 
