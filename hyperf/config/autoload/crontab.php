@@ -10,6 +10,7 @@ declare(strict_types=1);
  * @license  Apache License, Version 2.0
  */
 return [
-    Hyperf\Crontab\Process\CrontabDispatcherProcess::class,
-    Hyperf\AsyncQueue\Process\ConsumerProcess::class,
+    'enable' => true,
+    'crontab' => [
+    ],
 ];
